@@ -1,0 +1,19 @@
+*.iml
+/.idea/
+/**/target/
+Dockerfile
+将删除 .idea/compiler.xml
+将删除 .idea/dictionaries/
+将删除 .idea/encodings.xml
+将删除 .idea/inspectionProfiles/
+将删除 .idea/libraries/
+将删除 .idea/misc.xml
+将删除 .idea/modules.xml
+将删除 .idea/mongoSettings.xml
+将删除 .idea/workspace.xml
+将删除 account-service/
+将删除 auth-service/
+将删除 notification-service/
+将删除 springcloudtest.iml
+将删除 statistics-service/
+
